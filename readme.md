@@ -1,5 +1,8 @@
 # 🛒 EasyShopping
 
+[Visit EasyShopping 🚀](https://shopping-site-by-rwt.vercel.app/)
+
+
 A responsive shopping website built with **React.js (Vite)** using the **Fake Store API**. This project is created as part of a frontend internship assignment.
 
 ## 🔧 Tech Stack
